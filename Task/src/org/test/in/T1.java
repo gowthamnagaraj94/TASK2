@@ -10,9 +10,16 @@ public class T1 {
 		else {
 			System.out.println("odd");
 		}
+		int sum=0;
+		for(int i=1;i<10;i++) {
+			if(i%2==1) {
+				sum=sum+i;
+			System.out.println(sum);
+			}
 			
-		
-		
+		}
+
 	}
+	
 
 }
