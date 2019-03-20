@@ -10,9 +10,12 @@ public class T1 {
 		else {
 			System.out.println("odd");
 		}
-			
-		
-		
+	
 	}
+	private void select() {
+		System.out.println("implement");
 
+	}
+	
 }
+ 
